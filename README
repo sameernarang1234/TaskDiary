@@ -1,0 +1,5 @@
+This is an android app based on Java programming language. It is basically a diary application for students to keep a track of 
+their weekly assignments assigned by the professors. The student has to enter the date on which the task was assigned, the
+deadline of the assignment and the details of the task, a basic description. After pressing "Add Task" button, the app will save
+the details entered by the student in Google firebase using the firebase RESTful APIs. Retrofit 2 library is being used here to
+call the required APIs.
